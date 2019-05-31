@@ -1,4 +1,4 @@
-package com.ye.springcloud.eurekaclient;
+package com.ye.springcloud.servicehi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
